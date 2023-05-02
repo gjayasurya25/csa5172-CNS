@@ -24,7 +24,7 @@ def encrypt(a, b, plaintext):
 # Example usage
 a = 3
 b = 5
-plaintext = "Bhanuprakashreddy"
+plaintext = "jaya surya"
 if is_valid(a, b):
     ciphertext = encrypt(a, b, plaintext)
     print("Plaintext: ", plaintext)
